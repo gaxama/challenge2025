@@ -4,12 +4,16 @@ Grupo Cluster Vision
 
 Anna Paula Carbone
 RM: 558152
+
 Eduardo Ferreira
 RM: 555610
+
 Gabriel Mariotto
 RM: 557816
+
 Gabriel Moretim
 RM: 557740
+
 Guilherme Panfiete
 RM: 557758
 
