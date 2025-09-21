@@ -22,5 +22,3 @@ RM: 557758
 - Passo 7: Análise disponível em notebok ("analise/analise_clusters.ipynb") e material ne BI disponínel em "/analise/bi".
 
 Obs.: Demais arquivos ("/notebooks", "/dados/dados_tratados_v0" e "/dados/dataset_final_v0") disponíveis para consulta sobre o processo de pesquisa e desenvolvimento.
-
-Obs. 2: link para o vídeo do pitch disponível em "entregaveis/video.txt", apresentação em formato .pptx disponível em "entregaveis/EC_Sprint_4_2TSCPR_solucaofinal_clustervision_clustervision.pptx", planilha no formato .xlsx com informações básicas disponível em "entregaveis/Informacoes_Finais_Projeto_Integrantes.xlsx".
