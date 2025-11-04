@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+kmodes
+yellowbrick
+matplotlib
+seaborn
+jupyter
+ipykernel
+joblib
+plotly
